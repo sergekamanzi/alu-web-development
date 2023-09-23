@@ -36,4 +36,4 @@ If you need further assistance or have any questions related to this project, re
 - [HTML Documentation](https://www.w3schools.com/html/default.asp)
 - [Figma Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS Tutorial](https://www.w3schools.com/w3css/defaulT.asp)
-![Logo](D:/21.jpg)
+![Logo](../html_advanced/image.jpg)
