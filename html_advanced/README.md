@@ -34,5 +34,5 @@ To complete this project successfully, the following requirements must be met:
 If you need further assistance or have any questions related to this project, refer to the following resources:
 
 - [HTML Documentation](https://www.w3schools.com/html/default.asp)
-- [Figma Documentation]
+- [Figma Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS Tutorial](https://www.w3schools.com/w3css/defaulT.asp)
