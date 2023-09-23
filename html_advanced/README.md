@@ -36,5 +36,4 @@ If you need further assistance or have any questions related to this project, re
 - [HTML Documentation](https://www.w3schools.com/html/default.asp)
 - [Figma Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS Tutorial](https://www.w3schools.com/w3css/defaulT.asp)
-![Alt Text](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20230923%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230923T171036Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=04c3de560dd51a33e701e9b284f655fbdd87f18010dbee085d48a3dd07a02da1)
-
+![Alt Text](D:/awge.jpg)
